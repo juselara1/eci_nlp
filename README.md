@@ -12,6 +12,7 @@ Contenido del curso de _Procesamiento de Lenguaje Natural_ en la maestria en Cie
 | 2023-09-01 | Preprocesamiento de textos | [3_preprocessing.ipynb](https://github.com/juselara1/eci_nlp/blob/main/src/3_preprocessing.ipynb) | [video](https://drive.google.com/file/d/1XhDXpfocM3cT4Q0ACamaGfoC8ZIJsp9o/view?usp=drive_link) |
 | 2023-09-15 | Expresiones regulares | [4_regex.ipynb](https://github.com/juselara1/eci_nlp/blob/main/src/4_regex.ipynb) | [video](https://drive.google.com/file/d/1-UyVmfzwq1tJVCnWrdilMstp-PGrZlYL/view?usp=drive_link) |
 | 2023-09-22 | Bolsa de palabras | [5_bow.ipynb](https://github.com/juselara1/eci_nlp/blob/main/src/5_bow.ipynb) | [Video](https://drive.google.com/file/d/1sV9Gjtkg7HNG4epFaszPJEDslOwhUmoB/view?usp=drive_link) |
+| 2023-09-22 | Aplicaciones de Bolsa de Palabras | [6_bow_applications.ipynb](https://github.com/juselara1/eci_nlp/blob/main/src/6_bow_applications.ipynb) | [Video](https://drive.google.com/file/d/1DmwIStuMWURYj9u29isyTRDKjXVo6_dw/view?usp=drive_link) |
 
 ## Talleres
 
